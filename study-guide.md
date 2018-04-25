@@ -14,7 +14,7 @@ Git commands
 - remote: TODO
 - reset: TODO
 - revert: TODO
-- clone: TODO
+- clone: Make a copy of the repository on your local computer using a  github URL.
 
 GitHub operations
 - fork: TODO
