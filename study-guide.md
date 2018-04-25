@@ -6,7 +6,7 @@ Git commands
 - log: TODO
 - status: TODO
 - branch: TODO
-- checkout: TODO
+- checkout: it changes the active branch
 - push: TODO
 - pull: TODO
 - merge: TODO
