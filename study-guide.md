@@ -6,7 +6,7 @@ Git commands
 - log: shows history of the repository branch. ex: commits, added files
 - status: TODO
 - branch: TODO
-- checkout: TODO
+- checkout: it changes the active branch
 - push: TODO
 - pull: TODO
 - merge: Combines all changes on a specified branch into the current working branch
